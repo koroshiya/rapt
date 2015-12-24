@@ -10,7 +10,7 @@
                android:icon="@drawable/icon"
                android:allowBackup="true"
                android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
-               android:hardwareAccelerated="true" >
+               android:hardwareAccelerated="true"
                >
 
     <meta-data android:name="wakelock" android:value="1" />
